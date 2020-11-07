@@ -29,6 +29,7 @@ public class ComA {
             }
         }
         System.out.println("solution = " + solution);
+        System.out.println("solution = " + solution);
     }
 }
 
